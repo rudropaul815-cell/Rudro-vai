@@ -1,0 +1,6 @@
+{
+  "name": "BD Bus Simulator",
+  "description": "Drive realistic passenger buses across Bangladesh highways, bridges, cities and villages with smooth 3D controls, weather, and passenger missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
